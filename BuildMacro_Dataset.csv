@@ -1,0 +1,5 @@
+Project ID,Project Name,Client Name,Start Date,End Date,Budget ($),Cost to Date ($),Estimated Hours,Hours Spent,Status,Contractor,City
+P001,Green Villa,John Smith,2024-01-15,2024-06-30,250000,130000,1000,600,Ongoing,Alpha Builders,New York
+P002,Sunset Tower,Amy Johnson,2023-09-01,2024-02-28,500000,450000,2000,1950,Near Finish,Beta Works,Houston
+P003,Maple Office,Ken Wong,2024-03-01,2024-10-15,1000000,300000,5000,1200,Planning,Gamma Construct,Boston
+P004,Coastal Retreat,Lisa Tran,2023-05-20,2023-12-31,750000,720000,3500,3400,Completed,Delta Constr.,Miami
